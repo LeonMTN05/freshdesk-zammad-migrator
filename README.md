@@ -189,7 +189,7 @@ python -m unittest discover tests -v
 
 <div align="center">
 
-**Viel Erfolg bei der Migration!** 🎉
+**Viel Erfolg bei der Migration! --- #saveyourtokens** 🎉
 
 *Bei Problemen bitte ein Issue öffnen – `migration.log` und die Fehlermeldung helfen bei der Diagnose.*
 
