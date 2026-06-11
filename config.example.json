@@ -1,0 +1,6 @@
+{
+  "freshdesk_subdomain": "meinefirma",
+  "freshdesk_api_key": "HIER-FRESHDESK-API-KEY",
+  "zammad_url": "https://zammad.meinefirma.de",
+  "zammad_token": "HIER-ZAMMAD-API-TOKEN"
+}

@@ -1,0 +1,15 @@
+# Zugangsdaten & Migrationsdaten – NIEMALS committen!
+config.json
+migration_state.json
+failed_records.json
+migration.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
